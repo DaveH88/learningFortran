@@ -10,6 +10,7 @@ program logicalExp
       result = val1 < val2
       result = val1 >= val2
       result = val1 < (val2 - 2.0)
+      print*,result
 end program logicalExp
 
 
